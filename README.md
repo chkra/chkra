@@ -23,6 +23,10 @@ I am a product and innovation manager with a strong data science background and 
 <a href="https://www.linkedin.com/in/christina-kratsch/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/512px-Linkedin_icon.svg.png" height=50 />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0003-0565-1112" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Octicons-mortar-board.svg/480px-Octicons-mortar-board.svg.png" height=50 />
+</a>
 
 
 
