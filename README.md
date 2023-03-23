@@ -14,8 +14,12 @@ I am a product and innovation manager with a strong data science background and 
 - python data science programming
 
 ## 🌱 Currently working on
-- <a href="fastgenomics.org">FASTGenomics</a>
 - <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Learning Flask</a>
+- <a href="https://gpt-index.readthedocs.io/en/latest/index.html">figuring out Llamas</a>
+- my garden
+
+##⚡ Previously working on
+- <a href="fastgenomics.org">FASTGenomics</a>
 - <a href="https://azure.microsoft.com/de-de/services/cognitive-services">Azure Cognitive Services</a>
 - <a href="https://www.pinterest.de/gartenhausgmbh/gärtnern-auf-dem-balkon">my balcony</a>
 
