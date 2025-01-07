@@ -22,5 +22,9 @@ I am data scientis, GenAI nerd and ML enthusiast with a strong background in inn
 <a href="https://www.htw-berlin.de/hochschule/personen/person/?eid=13856" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Octicons-mortar-board.svg/480px-Octicons-mortar-board.svg.png" height=50 />
 </a>
+<a href="https://github.com/HTW-Berlin-KI-Werkstatt" target="_blank">
+  <img src="https://github.com/HTW-Berlin-KI-Werkstatt/.github/blob/main/profile/image.png" height=50>
+</a>
+
 
 
