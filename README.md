@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-# AI enthusiast, Data Scientist, Innovation & Product Manager
 [![HitCount](http://hits.dwyl.com/chkra/chkra.svg)](http://hits.dwyl.com/chkra/chkra)
 
 
 ## 💬 About me
-I am data scientis, GenAI nerd and Machien learning enthusiast with a strong background in innovation management and some years of experience in data projects of all kinds of business domains. I care for business models that are slightly more complex then your brothers new pizza app, and about all challenges (ethical, social, political, technical, ...) that come with digital transformation. Feel free to get in touch if you are looking for feedback on your new ai-related business model idea - as long as it not yet another app :-)
+I am data scientis, GenAI nerd and ML enthusiast with a strong background in innovation management and some years of experience in data projects of all kinds of business domains. I care for business models that are slightly more complex then your brothers new pizza app, and about all challenges (ethical, social, political, technical, ...) that come with digital transformation. Feel free to get in touch if you are looking for feedback on your new ai-related business model idea - as long as it not yet another app :-)
 
 ## 🔭 Skills
-- machine learning, esp. unsupervised learning, feature selection; AB testing
+- machine learning, esp. unsupervised learning, feature selection, AB testing
 - all things GenAI
+- (Gen)AI business model innovation
 - no expert, but fan: all things MLOps
 - agile development
-- business model development
 - python data science programming
-
 
 ## 📫 Contact
 <a href="https://www.linkedin.com/in/christina-kratsch/" target="_blank">
